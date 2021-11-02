@@ -1,7 +1,7 @@
 ### Hey everyone 😀
 
 I'm Ji Eui Hong from Korea. <br><br>
-🎓 I am a student at Sookmyung Women's University and I am only a few months away from graduating! Yoohoo! <br>
+📚 I am a student at Sookmyung Women's University and I am only a few months away from graduating! Yoohoo! <br>
 
 I am still a newbie to Github, but I will keep on committing as much as I can.
 
