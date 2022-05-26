@@ -1,6 +1,6 @@
 ### Hey everyone 😀
 
-I'm Ji Eui Hong from Korea. <br><br>
+I'm Ji Eui Hong from Korea. <br>
 👩‍🎓 I just graduated from uni and I'm looking for jobs
 
 <!---
